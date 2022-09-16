@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "unity_fixture.h": "c",
+        "unity.h": "c",
+        "foo.h": "c"
+    }
+}
